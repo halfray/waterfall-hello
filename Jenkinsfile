@@ -1,6 +1,6 @@
 import java.nio.file.Files
 def appName = 'hello'
-def appGitUrl = 'git@gitlab.com:halfray/test-jenkins-hello.git'
+def appGitUrl = ''
 def home=System.getProperty("user.home")
 
 node {
